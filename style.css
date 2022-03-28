@@ -9,6 +9,7 @@ img {
   position: relative;
   margin-bottom: 10px;
 }
+
 .slider__01,
 .slider__02,
 .slider__03,
@@ -24,7 +25,6 @@ img {
   z-index: 0;
 }
 
-/*btn*/
 .btn__div {
   text-align: center;
   width: 400px;

@@ -23,4 +23,5 @@ function handlePreEvent() {
   target = document.querySelector(`.slider__0${current}`);
   target.classList.add("showing");
 }
+
 btnPre.addEventListener("click", handlePreEvent);

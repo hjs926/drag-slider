@@ -9,18 +9,10 @@ img {
   position: relative;
   margin-bottom: 10px;
 }
-.slider__01 {
-  position: absolute;
-}
-.slider__02 {
-  position: absolute;
-}
-.slider__03 {
-  position: absolute;
-}
-.slider__04 {
-  position: absolute;
-}
+.slider__01,
+.slider__02,
+.slider__03,
+.slider__04,
 .slider__05 {
   position: absolute;
 }
